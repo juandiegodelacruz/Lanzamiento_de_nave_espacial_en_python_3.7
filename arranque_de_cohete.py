@@ -48,6 +48,7 @@ class arranque_de_cohete():
             time.sleep(2)
         print("")
         print("        capsula",variables.nombre,"en órbita")
+        time.sleep(2)
         print("")
         print("--------------//------------------")
         print("")
